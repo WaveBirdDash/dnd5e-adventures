@@ -163,4 +163,4 @@ If the target is an object that isn't being worn or carried, Ulvaeus hurls it up
 
 ---
 
-[⬅️ Appendix A: Magic Items](ap-a-magic-items.md) | [Home ⬆️](index.md)
+[⬅️ Appendix A: Magic Items](ap-a-magic-items.md) | [Adventure Index ⬆️](index.md) | [Home 🏡](../../index.md)

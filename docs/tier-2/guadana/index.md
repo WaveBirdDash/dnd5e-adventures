@@ -241,3 +241,7 @@ _**Headbutt.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:
 [^⚙️]: Source: _Eberron: Rising from the Last War_
 [^🏺]: Source: _Mythic Odysseys of Theros_
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
+
+---
+
+[⬅️ Chateau Rousseau](../chateau-rousseau/index.md) | [Tier 2 ⤴️](../index.md) | [Home 🏡](../../index.md)

@@ -20,6 +20,10 @@ _**By Mario Panighetti**_
 
 ### [Rules Definitions](../../rules-definitions.md)
 
-### [Credits](credits.md)
+### [Credits](../../credits.md)
 
 ### [Licensing](../../licensing.md)
+
+---
+
+[Home 🏡](../../index.md) | [Tier 2 ⤴️](../index.md) | [Guadaña ➡️](../guadana/index.md)

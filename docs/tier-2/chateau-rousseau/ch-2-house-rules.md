@@ -18,4 +18,4 @@ If the party succeeds in escaping Chateau Rousseau or defeating Goren, a player'
 
 ---
 
-[⬅️ Chapter 1: Introduction](ch-1-intro.md) | [Home ⬆️](index.md) | [Chapter 3: House Mechanics ➡️](ch-3-house-mechanics.md)
+[⬅️ Chapter 1: Introduction](ch-1-intro.md) | [Adventure Index ⬆️](index.md) | [Home 🏡](../../index.md) | [Chapter 3: House Mechanics ➡️](ch-3-house-mechanics.md)
