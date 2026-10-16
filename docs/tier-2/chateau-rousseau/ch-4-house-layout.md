@@ -123,4 +123,4 @@ This walk-in closet is filled with coats in varying states of moth-eaten decay. 
 
 ---
 
-[⬅️ Chapter 3: House Mechanics](ch-3-house-mechanics.md) | [Home ⬆️](index.md) | [Appendix A: Magic Items ➡️](ap-a-magic-items.md)
+[⬅️ Chapter 3: House Mechanics](ch-3-house-mechanics.md) | [Adventure Index ⬆️](index.md) | [Tier 2 ⤴️](../index.md) | [Home 🏡](../../index.md) | [Appendix A: Magic Items ➡️](ap-a-magic-items.md)

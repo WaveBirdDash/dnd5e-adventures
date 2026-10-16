@@ -15,4 +15,4 @@ The ghosts are unaffected by this room randomization as they can bypass the door
 
 ---
 
-[⬅️ Chapter 2: Suggested House Rules](ch-2-house-rules.md) | [Home ⬆️](index.md) | [Chapter 4: House Layout ➡️](ch-4-house-layout.md)
+[⬅️ Chapter 2: Suggested House Rules](ch-2-house-rules.md) | [Adventure Index ⬆️](index.md) | [Home 🏡](../../index.md) | [Chapter 4: House Layout ➡️](ch-4-house-layout.md)

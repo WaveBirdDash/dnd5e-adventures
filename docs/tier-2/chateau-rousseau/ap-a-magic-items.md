@@ -58,4 +58,4 @@ Once you have cast _Polymorph_ using the ring, you can't do so again until the n
 
 ---
 
-[⬅️ Chapter 4: House Layout](ch-4-house-layout.md) | [Home ⬆️](index.md) | [Appendix B: The Rousseau Family ➡️](ap-b-rousseau-family.md)
+[⬅️ Chapter 4: House Layout](ch-4-house-layout.md) | [Adventure Index ⬆️](index.md) | [Home 🏡](../../index.md) | [Appendix B: The Rousseau Family ➡️](ap-b-rousseau-family.md)

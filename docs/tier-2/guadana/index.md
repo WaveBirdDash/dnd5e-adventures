@@ -70,7 +70,7 @@ _**Spellcasting.**_ Ferran is an 11th-level spellcaster. His spellcasting abilit
 
 #### Ferran's Reciprocity
 
-When Ferran arrives and demands blood from the party, he summons three _skeletons_, one [Grinning Gourd](https://github.com/wavebirddash/dnd5e-030crc/blob/main/2021-10-04-spoopy.md#grinning-gourd) to fight on his behalf.
+When Ferran arrives and demands blood from the party, he summons three _skeletons_, one [Grinning Gourd](https://wavebirddash.github.io/dnd5e-030crc/2021-10-04-spoopy.html) to fight on his behalf.
 
 Once Ferran's minions have been defeated, or once two party members fall unconscious, Ferran is satisfied with their payment and his bloodlust is slaked for the time being. He revives any fallen party members and allows them to complete their Guadaña celebrations in peace before Dídac sends them on their way home.
 
@@ -149,7 +149,7 @@ The challenge ends when all but one participant are disqualified or drop out, or
 |     The Chariot    | You gain the ability to summon a **flying chariot**[^🏺] to your location once, along with a _quetzalcoatlus_[^👹] to pull it. The chariot is large enough for two riders. After they are summoned, both the chariot and the quetzalcoatlus disappear at the next dawn, or if the quetzalcoatlus is reduced to 0 hit points. |
 |      Strength      | You gain the _Charm of Heroism_. |
 |     The Hermit     | You gain the _Charm of Animal Conjuring_. |
-|  Wheel of Fortune  | You can choose to either roll a d6 for fortune or ruin, or to draw another card, which takes effect instead of this card. If you choose to roll a d6, on an even result, you gain 1,000 gp worth of coins or gems (your choice), and on an odd result, you summon the [Avatar of Debt](https://github.com/wavebirddash/dnd5e-030crc/blob/main/2021-10-02-capitalism.md#avatar-of-debt). |
+|  Wheel of Fortune  | You can choose to either roll a d6 for fortune or ruin, or to draw another card, which takes effect instead of this card. If you choose to roll a d6, on an even result, you gain 1,000 gp worth of coins or gems (your choice), and on an odd result, you summon the [Avatar of Debt](https://wavebirddash.github.io/dnd5e-030crc/2021-10-02-capitalism.html). |
 |       Justice      | You gain the ability to cast _silvery barbs_ 3 times at 1st level. When casting this spell in this manner, your spellcasting ability for it is Charisma. |
 |   The Hanged Man   | You are Cursed. While Cursed in this manner, you smell like swamp gas, and no amount of bathing can rid you of this stench. |
 |        Death       | You are Cursed. While Cursed in this manner, you gain vulnerability to radiant damage, and spells can't restore hit points to you. |
@@ -241,3 +241,7 @@ _**Headbutt.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:
 [^⚙️]: Source: _Eberron: Rising from the Last War_
 [^🏺]: Source: _Mythic Odysseys of Theros_
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
+
+---
+
+[⬅️ Chateau Rousseau](../chateau-rousseau/index.md) | [Tier 2 ⤴️](../index.md) | [Home 🏡](../../index.md)
