@@ -2,4 +2,4 @@
 
 ---
 
-[⬅️ Tier 3 (Levels 11-15)](../tier-2/index.md) | [Home 🏡](index.md) | [Rules Definitions ➡️](../rules-definitions.md)
+[⬅️ Tier 3 (Levels 11-15)](../tier-2/index.md) | [Home 🏡](../index.md) | [Rules Definitions ➡️](../rules-definitions.md)
