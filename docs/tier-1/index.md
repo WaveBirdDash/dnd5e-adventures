@@ -2,4 +2,4 @@
 
 ---
 
-[Home 🏡](index.md) | [Tier 2 (Levels 5-10) ➡️](../tier-2/index.md)
+[Home 🏡](../index.md) | [Tier 2 (Levels 5-10) ➡️](../tier-2/index.md)
